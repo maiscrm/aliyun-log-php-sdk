@@ -1,0 +1,20 @@
+{
+    "name": "maiscrm/aliyun-log-php-sdk",
+    "description": "Aliyun Log Service PHP SDK",
+    "keywords": ["aliyun", "sls", "log"],
+    "homepage": "http://www.aliyun.com/product/sls/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tony Zheng",
+            "homepage": "https://www.maiscrm.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.7"
+    },
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}
